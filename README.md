@@ -17,5 +17,5 @@
 - Learnt how to make the responsive offset navigation
 
 ## :camera: Screenshot
-![screenshot](./Web capture_1-10-2022_161540_.jpeg)
+![screenshot](./images/15.jpeg)
 
