@@ -7,7 +7,7 @@
 
 ![time](https://img.shields.io/badge/time--to--complete-9--hrs--approx.-yellowgreen)
 
-## :link: [See it live](https://portsomu.netlify.app/)
+## :link: [See it live](https://project-15-portfolio-website-gfht.vercel.app/)
 
 
 ## :clipboard: Learning Outcomes 
